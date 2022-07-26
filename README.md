@@ -10,7 +10,7 @@ A music recommendation system that recommends some songs based on user mood trai
 - VsCode 1.52.1  
 <br>
 
-## take a look
+## Take a look
 - [Running Gunicorn in Colab,  
   Webcam In Google Colab,  
   How To Add Action Buttons In Flask](https://github.com/iamdami/Flask-Music-Recommendation-System/blob/main/note/22-02-02.md)  
