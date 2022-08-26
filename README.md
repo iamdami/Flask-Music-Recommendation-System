@@ -1,4 +1,4 @@
-# Flask Wep App
+# Flask Web App
 A music recommendation system that recommends some songs based on user mood trained by using [FER2013 dataset](https://paperswithcode.com/dataset/fer2013).  
 <br>
 
